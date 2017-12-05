@@ -13,7 +13,7 @@ Requirements
 Install
 =======
 
-    npm install ftp
+    npm install uiza-ftp
 
 
 Examples
